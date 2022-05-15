@@ -1,0 +1,36 @@
+https://www.ionos.com/digitalguide/server/know-how/windows-blue-screen/
+
+https://www.ionos.com/digitalguide/server/configuration/windows-10-safe-mode/
+
+
+
+Blue Screen Node.js
+
+Symantec DLP (Data Loss Prevention)
+https://stackoverflow.com/questions/48386050/npm-nodejs-crashes-with-bsod
+
+
+Win 7
+https://stackoverflow.com/questions/48755780/nodejs-bluescreen-on-install
+
+https://stackoverflow.com/questions/68246111/why-this-piece-of-nodejs-code-has-given-a-bsod-on-win7
+
+WSL
+
+Running NPM causes non-deterministic BSOD #4537
+https://github.com/microsoft/WSL/issues/4537		
+
+Blue Screen (Win 10 14352 + 14361) Running npm / PhantomJS #436
+https://github.com/microsoft/WSL/issues/436
+
+https://stackoverflow.com/questions/66556580/deleting-node-modules-crashes-computer
+
+
+
+
+https://www.tenforums.com/general-support/42432-environmental-variables-unexpected-behaviour.html
+
+
+https://borncity.com/win/2021/01/18/windows-10-bug-allows-bsod-by-entering-a-path-in-a-browser/
+
+https://www.getdroidtips.com/fix-chrome-causing-bsod-errors-on-windows-10/
